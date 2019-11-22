@@ -2,7 +2,7 @@
 This is a reference for Human Resource Management course in NDHU.
 
 # Log in to the website 
-The link goes after is a vedio that helps you find the website and log in, also some instructions about first login.
+The link is a vedio that helps you find the website and log in, also some instructions about your first login.
 
 * [login instruction]()
 
@@ -18,6 +18,6 @@ These vedio go through the case briefly and describe some constrains to the deci
 * [special]()
 
 # Supplement explanation
-This vedio provide some extra information that not as fatal as above ones, but still suggested to know.
+This vedio provides some extra information that not as fatal as above ones, but still are suggested to know.
 
 * [supplement]()
